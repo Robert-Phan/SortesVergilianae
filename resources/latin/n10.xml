@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><text><body><div1 type="Book" n="10" org="uniform" sample="complete">
+<milestone ed="p" n="1" unit="card"/>
+<l>Panditur interea domus omnipotentis Olympi,</l>
+<l>conciliumque vocat divom pater atque hominum rex</l>
+<l>sideream in sedem, terras unde arduus omnis</l>
+<l>castraque Dardanidum adspectat populosque Latinos.</l>
+<l n="5">Considunt tectis bipatentibus, incipit ipse:</l>
+<l>“Caelicolae magni, quianam sententia vobis</l>
+<l>versa retro tantumque animis certatis iniquis?</l>
+<l>Abnueram bello Italiam concurrere Teucris.</l>
+<l>Quae contra vetitum discordia? Quis metus aut hos</l>
+<l n="10">aut hos arma sequi ferrumque lacessere suasit?</l>
+<l>Adveniet iustum pugnae, ne arcessite, tempus,</l>
+<l>cum fera Karthago Romanis arcibus olim</l>
+<l>exitium magnum atque Alpes immittet apertas:</l>
+<l>tum certare odiis, tum res rapuisse licebit.</l>
+<l n="15">Nunc sinite et placitum laeti componite foedus.”</l>
+<milestone ed="p" n="16" unit="card"/>
+<l>Iuppiter haec paucis; at non Venus aurea contra</l>
+<l>pauca refert:</l>
+<l>“O pater, O hominum rerumque aeterna potestas!</l>
+<l>Namque aliud quid sit, quod iam implorare queamus?</l>
+<l n="20">Cernis ut insultent Rutulli Turnusque <del status="unremarkable">feratur</del></l>
+<l><del status="unremarkable">per medios insignis equis tumidusque</del> secundo</l>
+<l>Marte ruat? Non clausa tegunt iam moenia Teucros:</l>
+<l>quin intra portas atque ipsis proelia miscent</l>
+<l>aggeribus moerorum et inundant sanguine fossas.</l>
+<l n="25">Aeneas ignarus abest. Numquamne levari</l>
+<l>obsidione sines? Muris iterum imminet hostis</l>
+<l>nascentis Troiae <del status="unremarkable">nec non exercitus alter;</del></l>
+<l>atque iterum in Teucros Aetolis surgit ab Arpis</l>
+<l>Tydides. Equidem credo, mea volnera restant</l>
+<l n="30">et tua progenies mortalia demoror arma.</l>
+<l>Si sine pace tua atque invito numine Troes</l>
+<l>Italiam petiere, luant peccata neque illos</l>
+<l>iuveris auxilio; sin tot responsa secuti,</l>
+<l>quae superi manesque dabant: cur nunc tua quisquam</l>
+<l n="35">vertere iussa potest aut cur nova condere fata?</l>
+<l>Quid repetem exustas Erycino in litore classes,</l>
+<l>quid tempestatum regem ventosque furentis</l>
+<l>Aeolia excitos aut actam nubibus Irim?</l>
+<l>Nunc etiam manis, haec intemptata manebat</l>
+<l n="40">sors rerum, movet et superis immissa repente</l>
+<l>Allecto, medias Italum bacchata per urbes.</l>
+<l>Nil super imperio moveor: speravimus ista,</l>
+<l>dum fortuna fuit; vincant quos vincere mavis.</l>
+<l>Si nulla est regio, Teucris quam det tua coniunx</l>
+<l n="45">dura, per eversae, genitor, fumantia Troiae</l>
+<l>exscidia obtestor, liceat dimittere ab armis</l>
+<l>incolumem Ascanium, liceat superesse nepotem.</l>
+<l>Aeneas sane ignotis iactetur in undis</l>
+<l>et, quamcumque viam dederit Fortuna, sequatur:</l>
+<l n="50">hunc tegere et dirae valeam subducere pugnae.</l>
+<l>Est Amathus, est celsa mihi Paphus atque Cythera</l>
+<l>Idaliaeque domus: positis inglorius armis</l>
+<l>exigat hic aevum. Magna dicione iubeto</l>
+<l>Karthago premat Ausoniam: nihil urbibus inde</l>
+<l n="55">obstabit Tyriis. Quid pestem evadere belli</l>
+<l>iuvit et Argolicos medium fugisse per ignes</l>
+<l>totque maris vastaeque exhausta pericula terrae,</l>
+<l>dum Latium Teucri recidivaque Pergama quaerunt?</l>
+<l>Non satius cineres patriae insedisse supremos</l>
+<l n="60">atque solum, quo Troia fuit? Xanthum et Simoenta</l>
+<l>redde, oro, miseris iterumque revolvere casus</l>
+<l>da, pater, Iliacos Teucris.” <milestone ed="P" unit="para"/>Tum regia Iuno</l>
+<l>acta furore gravi: “Quid me alta silentia cogis</l>
+<l>rumpere et obductum verbis volgare dolorem?</l>
+<l n="65">Aenean hominum quisquam divomque subegit</l>
+<l>bella sequi aut hostem regi se inferre Latino?</l>
+<l>Italiam petiit fatis auctoribus, esto,</l>
+<l>Cassandrae inpulsus furiis: num linquere castra</l>
+<l>hortati sumus aut vitam committere ventis?</l>
+<l n="70">Num puero summam belli, num credere muros</l>
+<l>Tyrrhenamque fidem, aut gentis agitare quietas?</l>
+<l>Quis deus in fraudem, quae dura potentia nostra</l>
+<l>egit? Ubi hic Iuno demissave nubibus Iris?</l>
+<l>Indignum est Italos Troiam circumdare flammis</l>
+<l n="75">nascentem et patria Turnum consistere terra,</l>
+<l>cui Pilumnus avus, cui diva Venilia mater:</l>
+<l>quid face Troianos atra vim ferre Latinis,</l>
+<l>arva aliena iugo premere atque avertere praedas?</l>
+<l>Quid soceros legere et gremiis abducere pactas,</l>
+<l n="80">pacem orare manu, praefigere puppibus arma?</l>
+<l>Tu potes Aenean manibus subducere Graium</l>
+<l>proque viro nebulam et ventos obtendere inanis,</l>
+<l>tu potes in totidem classem convertere nymphas:</l>
+<l>nos aliquid Rutulos contra iuvisse nefandum est?</l>
+<l n="85">Aeneas ignarus abest: ignarus et absit.</l>
+<l>Est Paphus Idaliumque tibi, sunt alta Cythera:</l>
+<l>quid gravidam bellis urbem et corda aspera temptas?</l>
+<l>Nosne tibi fluxas Phrygiae res vertere fundo</l>
+<l>conamur, nos, an miseros qui Troas Achivis</l>
+<l n="90">obiecit? Quae causa fuit, consurgere in arma</l>
+<l>Europamque Asiamque et foedera solvere furto?</l>
+<l>Me duce Dardanius Spartam expugnavit adulter,</l>
+<l>aut ego tela dedi fovive cupidine bella?</l>
+<l>Tum decuit metuisse tuis: nunc sera querelis</l>
+<l n="95">haud iustis adsurgis et inrita iurgia iactas.”</l>
+<milestone ed="p" n="62" unit="card"/>
+<l>Talibus orabat Iuno, cunctique fremebant</l>
+<l>caelicolae adsensu vario, ceu flamina prima</l>
+<l>cum deprensa fremunt silvis et caeca volutant</l>
+<l>murmura, venturos nautis prodentia ventos.</l>
+<l n="100">Tum pater omnipotens, rerum cui prima potestas,</l>
+<l>infit; eo dicente deum domus alta silescit</l>
+<l>et tremefacta solo tellus, silet arduus aether,</l>
+<l>tum Zephyri posuere, premit placida aequora pontus:</l>
+<l>“Accipite ergo animis atque haec mea figite dicta.</l>
+<l n="105">Quandoquidem Ausonios coniungi foedere Teucris</l>
+<l>haud licitum, nec vestra capit discordia finem:</l>
+<l>quae cuique est fortuna hodie, quam quisque secat spem,</l>
+<l>Tros Rutulusne fuat nullo discrimine habebo.</l>
+<l>Seu fatis Italum castra obsidione tenentur</l>
+<l n="110">sive errore malo Troiae monitisque sinistris.</l>
+<l>Nec Rutulos solvo: sua cuique exorsa laborem</l>
+<l>fortunamque ferent. Rex Iuppiter omnibus idem.</l>
+<l>Fata viam invenient.” Stygii per flumina fratris,</l>
+<l>per pice torrentis atraque voragine ripas</l>
+<l n="115">adnuit et totum nutu tremefecit Olympum.</l>
+<l>Hic finis fandi. Solio tum Iuppiter aureo</l>
+<l>surgit, caelicolae medium quem ad limina ducunt.</l>
+<milestone ed="p" n="96" unit="card"/>
+<l>Interea Rutuli portis circum omnibus instant</l>
+<l>sternere caede viros et moenia cingere flammis.</l>
+<l n="120">At legio Aeneadum vallis obsessa tenetur,</l>
+<l>nec spes ulla fugae. Miseri stant turribus altis</l>
+<l>nequiquam et rara muros cinxere corona</l>
+<l>Asius Imbrasides Hicetaoniusque Thymoetes</l>
+<l>Assaracique duo et senior cum Castore Thymbris,</l>
+<l n="125">prima acies; hos germani Sarpedonis ambo</l>
+<l>et Clarus et Thaemon Lycia comitantur ab alta.</l>
+<l>Fert ingens toto conixus corpore saxum,</l>
+<l>haud partem exiguam montis, Lyrnesius Acmon,</l>
+<l>nec Clytio genitore minor nec fratre Menestheo.</l>
+<l n="130">Hi iaculis, illi certant defendere saxis</l>
+<l>molirique ignem nervoque aptare sagittas.</l>
+<l>Ipse inter medios, Veneris iustissima cura,</l>
+<l>Dardanius caput ecce puer detectus honestum,</l>
+<l>qualis gemma micat, fulvum quae dividit aurum,</l>
+<l n="135">aut collo decus aut capiti; vel quale per artem</l>
+<l>inclusum buxo aut Oricia terebintho</l>
+<l>lucet ebur; fusos cervix cui lactea crinis</l>
+<l>accipit et molli subnectens circulus auro.</l>
+<l>Te quoque magnanimae viderunt, Ismare, gentes</l>
+<l n="140">volnera dirigere et calamos armare veneno,</l>
+<l>Maeonia generose domo, ubi pinguia culta</l>
+<l>exercentque viri Pactolusque inrigat auro.</l>
+<l>Adfuit et Mnestheus, quem pulsi pristina Turni</l>
+<l>aggere moerorum sublimem gloria tollit,</l>
+<l n="145">et Capys: hinc nomen Campanae ducitur urbi.</l>
+<milestone ed="p" n="146" unit="card"/>
+<l>Illi inter sese duri certamina belli</l>
+<l>contulerant: media Aeneas freta nocte secabat.</l>
+<l>Namque ut ab Euandro castris ingressus Etruscis</l>
+<l>regem adit et regi memorat nomenque genusque,</l>
+<l n="150">quidve petat quidve ipse ferat, Mezentius arma</l>
+<l>quae sibi conciliet, violentaque pectora Turni</l>
+<l>edocet, humanis quae sit fiducia rebus</l>
+<l>admonet immiscetque preces: haud fit mora, Tarchon</l>
+<l>iungit opes foedusque ferit; tum libera fati</l>
+<l n="155">classem conscendit iussis gens Lydia divom,</l>
+<l>externo commissa duci. Aeneia puppis</l>
+<l>prima tenet, rostro Phrygios subiuncta leones,</l>
+<l>imminet Ida super, profugis gratissima Teucris.</l>
+<l>Hic magnus sedet Aeneas secumque volutat</l>
+<l n="160">eventus belli varios, Pallasque sinistro</l>
+<l>adfixus lateri iam quaerit sidera, opacae</l>
+<l>noctis iter, iam quae passus terraque marique.</l>
+<milestone ed="p" n="163" unit="card"/>
+<l>Pandite nunc Helicona, deae, cantusque movete,</l>
+<l>quae manus interea Tuscis comitetur ab oris</l>
+<l n="165">Aenean armetque rates pelagoque vehatur.</l>
+<milestone ed="p" n="166" unit="card"/>
+<l>Massicus aerata princeps secat aequora tigri:</l>
+<l>sub quo mille manus iuvenum, qui moenia Clusi</l>
+<l>quique urbem liquere Cosas, quis tela sagittae</l>
+<l>gorytique leves umeris et letifer arcus.</l>
+<l n="170">Una torvus Abas: huic totum insignibus armis</l>
+<l>agmen et aurato fulgebat Apolline puppis.</l>
+<l>Sescentos illi dederat Populonia mater</l>
+<l>expertos belli iuvenes, ast Ilva trecentos</l>
+<l>insula inexhaustis Chalybum generosa metallis.</l>
+<l n="175">Tertius ille hominum divomque interpres Asilas,</l>
+<l>cui pecudum fibrae, caeli cui sidera parent</l>
+<l>et linguae volucrum et praesagi fulminis ignes,</l>
+<l>mille rapit densos acie atque horrentibus hastis.</l>
+<l>Hos parere iubent Alpheae ab origine Pisae,</l>
+<l n="180">urbs Etrusca solo. Sequitur pulcherrimus Astur,</l>
+<l>Astur equo fidens et versicoloribus armis.</l>
+<l>Tercentum adiciunt (mens omnibus una sequendi)</l>
+<l>qui Caerete domo, qui sunt Minionis in arvis,</l>
+<l>et Pyrgi veteres intempestaeque Graviscae.</l>
+<milestone ed="p" n="185" unit="card"/>
+<l n="185">Non ego te, Ligurum ductor fortissime bello,</l>
+<l>transierim, Cinyre, et paucis comitate Cupavo,</l>
+<l>cuius olorinae surgunt de vertice pennae,</l>
+<l>crimen, Amor, vestrum formaeque insigne paternae.</l>
+<l>Namque ferunt luctu Cycnum Phaethontis amati,</l>
+<l n="190">populeas inter frondes umbramque sororum</l>
+<l>dum canit et maestum Musa solatur amorem,</l>
+<l>canentem molli pluma duxisse senectam,</l>
+<l>linquentem terras et sidera voce sequentem.</l>
+<l>Filius, aequalis comitatus classe catervas,</l>
+<l n="195">ingentem remis Centaurum promovet: ille</l>
+<l>instat aquae saxumque undis immane minatur</l>
+<l>arduus et longa sulcat maria alta carina.</l>
+<milestone ed="p" n="198" unit="card"/>
+<l>Ille etiam patriis agmen ciet Ocnus ab oris,</l>
+<l>fatidicae Mantus et Tusci filius amnis,</l>
+<l n="200">qui muros matrisque dedit tibi, Mantua, nomen,</l>
+<l>Mantua, dives avis; sed non genus omnibus unum:</l>
+<l>gens illi triplex, populi sub gente quaterni,</l>
+<l>ipsa caput populis, Tusco de sanguine vires.</l>
+<l>Hinc quoque quingentos in se Mezentius armat,</l>
+<l n="205">quos patre Benaco velatus harundine glauca</l>
+<l>Mincius infesta ducebat in aequora pinu.</l>
+<l>It gravis Aulestes centenaque arbore fluctum</l>
+<l>verberat adsurgens, spumant vada marmore verso.</l>
+<l>Hunc vehit immanis Triton et caerula concha</l>
+<l n="210">exterrens freta, cui laterum tenus hispida nanti</l>
+<l>frons hominem praefert, in pristim desinit alvus:</l>
+<l>spumea semifero sub pectore murmurat unda.</l>
+<l>Tot lecti proceres ter denis navibus ibant</l>
+<l>subsidio Troiae et campos salis aera secabant.</l>
+<milestone ed="p" n="215" unit="card"/>
+<l n="215">Iamque dies caelo concesserat almaque curru</l>
+<l>noctivago Phoebe medium pulsabat Olympum:</l>
+<l>Aeneas (neque enim membris dat cura quietem)</l>
+<l>ipse sedens clavumque regit velisque ministrat.</l>
+<l>Atque illi medio in spatio chorus ecce suarum</l>
+<l n="220">occurrit comitum: nymphae, quas alma Cybebe</l>
+<l>numen habere maris nymphasque e navibus esse</l>
+<l>iusserat, innabant pariter fluctusque secabant,</l>
+<l>quot prius aeratae steterant ad litora prorae.</l>
+<l>Agnoscunt longe regem lustrantque choreis,</l>
+<l n="225">quarum quae fandi doctissima Cymodocea</l>
+<l>pone sequens dextra puppim tenet ipsaque dorso</l>
+<l>eminet ac laeva tacitis subremigat undis,</l>
+<l>tum sic ignarum adloquitur: “Vigilasne, deum gens,</l>
+<l>Aenea? Vigila et velis immitte rudentis.</l>
+<l n="230">Nos sumus, Idaeae sacro de vertice pinus,</l>
+<l>nunc pelagi nymphae, classis tua Perfidus ut nos</l>
+<l>praecipitis ferro Rutulus flammaque premebat,</l>
+<l>rupimus invitae tua vincula teque per aequor</l>
+<l>quaerimus. Hanc Genetrix faciem miserata refecit</l>
+<l n="235">et dedit esse deas aevumque agitare sub undis.</l>
+<l>At puer Ascanius muro fossisque tenetur</l>
+<l>tela inter media atque horrentis Marte Latinos.</l>
+<l>Iam loca iussa tenent forti permixtus Etrusco</l>
+<l>Arcas eques: medias illis opponere turmas,</l>
+<l n="240">ne castris iungant, certast sententia Turno.</l>
+<l>Surge age et Aurora socios veniente vocari</l>
+<l>primus in arma iube et clipeum cape, quem dedit ipse</l>
+<l>invictum Ignipotens atque oras ambiit auro.</l>
+<l>Crastina lux, mea si non inrita dicta putaris,</l>
+<l n="245">ingentis Rutulae spectabit caedis acervos.”</l>
+<l>Dixerat, et dextra discedens impulit altam</l>
+<l>haud ignara modi puppim: fugit illa per undas</l>
+<l>ocior et iaculo et ventos aequante sagitta.</l>
+<l>Inde aliae celerant cursus. Stupet inscius ipse</l>
+<l n="250">Tros Anchisiades; animos tamen omine tollit.</l>
+<l>Tum breviter super adspectans convexa precatur:</l>
+<l>“Alma parens Idaea deum, cui Dindyma cordi</l>
+<l>turrigeraeque urbis biiugique ad frena leones,</l>
+<l>tu mihi nunc pugnae princeps, tu rite propinques</l>
+<l n="255">augurium Phrygibusque adsis pede, diva, secundo.”</l>
+<l>Tantum effatus. Et interea revoluta rubebat</l>
+<l>matura iam luce dies noctemque fugarat:</l>
+<l>principio sociis edicit, signa sequantur</l>
+<l>atque animos aptent armis pugnaeque parent se.</l>
+<milestone ed="p" n="260" unit="card"/>
+<l n="260">Iamque in conspectu Teucros habet et sua castra,</l>
+<l>stans celsa in puppi; clipeum cum deinde sinistra</l>
+<l>extulit ardentem. Clamorem ad sidera tollunt</l>
+<l>Dardanidae e muris, spes addita suscitat iras,</l>
+<l>tela manu iaciunt: quales sub nubibus atris</l>
+<l n="265">Strymoniae dant signa grues atque aethera tranant</l>
+<l>cum sonitu fugiuntque notos clamore secundo.</l>
+<l>At Rutulo regi ducibusque ea mira videri</l>
+<l>Ausoniis, donec versas ad litora puppes</l>
+<l>respiciunt totumque adlabi classibus aequor.</l>
+<l n="270">Ardet apex capiti cristisque a vertice flamma</l>
+<l>funditur et vastos umbo vomit aureus ignes:</l>
+<l>non secus ac liquida siquando nocte cometae</l>
+<l>sanguinei lugubre rubent aut Sirius ardor,</l>
+<l>ille sitim morbosque ferens mortalibus aegris,</l>
+<l n="275">nascitur et laevo contristat lumine caelum.</l>
+<milestone ed="p" n="276" unit="card"/>
+<l>Haud tamen audaci Turno fiducia cessit</l>
+<l>litora praecipere et venientis pellere terra.</l>
+<l><del status="unremarkable">ultro animos tollit dictis atque increpat ultro</del></l>
+<l>“Quod votis optastis, adest, perfringere dextra;</l>
+<l n="280">in manibus Mars ipse viris. Nunc coniugis esto</l>
+<l>quisque suae tectique memor, nunc magna referto</l>
+<l>facta, patrum laudes. Ultro occurramus ad undam,</l>
+<l>dum trepidi egressisque labant vestigia prima.</l>
+<l>Audentis Fortuna iuvat,”</l>
+<l n="285">haec ait et secum versat, quos ducere contra</l>
+<l>vel quibus obsessos possit concredere muros.</l>
+<milestone ed="p" n="287" unit="card"/>
+<l>Interea Aeneas socios de puppibus altis</l>
+<l>pontibus exponit. Multi servare recursus</l>
+<l>languentis pelagi et brevibus se credere saltu,</l>
+<l n="290">per remos alii. Speculatus litora Tarchon,</l>
+<l>qua vada non sperat nec fracta remurmurat unda,</l>
+<l>sed mare inoffensum crescenti adlabitur aestu,</l>
+<l>advertit subito proram sociosque precatur:</l>
+<l>“Nunc, o lecta manus, validis incumbite remis;</l>
+<l n="295">tollite, ferte rates; inimicam findite rostris</l>
+<l>hanc terram, sulcumque sibi premat ipsa carina.</l>
+<l>Frangere nec tali puppim statione recuso</l>
+<l>arrepta tellure semel.” Quae talia postquam</l>
+<l>effatus Tarchon, socii consurgere tonsis</l>
+<l n="300">spumantisque rates arvis inferre Latinis,</l>
+<l>donec rostra tenent siccum et sedere carinae</l>
+<l>omnes innocuae, sed non puppis tua, Tarchon.</l>
+<l>Namque inflicta vadis dorso dum pendet iniquo,</l>
+<l>anceps sustentata diu fluctusque fatigat,</l>
+<l n="305">solvitur atque viros mediis exponit in undis</l>
+<l>fragmina remorum quos et fluitantia transtra</l>
+<l>impediunt, retrahitque pedem simul unda relabens.</l>
+<milestone ed="p" n="308" unit="card"/>
+<l>Nec Turnum segnis retinet mora, sed rapit acer</l>
+<l>totam aciem in Teucros et contra in litore sistit.</l>
+<l n="310">Signa canunt. Primus turmas invasit agrestis</l>
+<l>Aeneas, omen pugnae, stravitque Latinos</l>
+<l>occiso Therone, virum qui maximus ultro</l>
+<l>Aenean petit: huic gladio perque aerea suta,</l>
+<l>per tunicam squalentem auro latus haurit apertum.</l>
+<l n="315">Inde Lichan ferit, exsectum iam matre perempta</l>
+<l>et tibi, Phoebe, sacrum: casus evadere ferri</l>
+<l>quo licuit parvo? Nec longe Cissea durum</l>
+<l>immanemque Gyan, sternentis agmina clava,</l>
+<l>deiecit Leto: nihil illos Herculis arma</l>
+<l n="320">nec validae iuvere manus genitorque Melampus,</l>
+<l>Alcidae comes usque gravis dum terra labores</l>
+<l>praebuit. Ecce Pharo, voces dum iactat inertis,</l>
+<l>intorquens iaculum clamanti sistit in ore.</l>
+<l>Tu quoque, flaventem prima lanugine malas</l>
+<l n="325">dum sequeris Clytium infelix, nova gaudia, Cydon,</l>
+<l>Dardania stratus dextra, securus amorum,</l>
+<l>qui iuvenum tibi semper erant, miserande iaceres,</l>
+<l>ni fratrum stipata cohors foret obvia, Phorci</l>
+<l>progenies, septem numero, septenaque tela</l>
+<l n="330">coniciunt; partim galea clipeoque resultant</l>
+<l>inrita, deflexit partim stringentia corpus</l>
+<l>alma Venus. Fidum Aeneas adfatur Achaten:</l>
+<l>“Suggere tela mihi: non ullum dextera frustra</l>
+<l>torserit in Rutulos, steterunt quae in corpore Graium</l>
+<l n="335">Iliacis campis.” Tum magnam corripit hastam</l>
+<l>et iacit: illa volans clipei transverberat aera</l>
+<l>Maeonis et thoraca simul cum pectore rumpit.</l>
+<l>Huic frater subit Alcanor fratremque ruentem</l>
+<l>sustentat dextra: traiecto missa lacerto</l>
+<l n="340">protinus hasta fugit servatque cruenta tenorem,</l>
+<l>dexteraque ex umero nervis moribunda pependit.</l>
+<l>Tum Numitor iaculo fratris de corpore rapto</l>
+<l>Aenean petiit; sed non et figere contra</l>
+<l>est licitum, magnique femur perstrinxit Achatae.</l>
+<milestone ed="p" n="345" unit="card"/>
+<l n="345">Hic Curibus fidens primaevo corpore Clausus</l>
+<l>advenit et rigida Dryopem ferit eminus hasta</l>
+<l>sub mentum graviter pressa pariterque loquentis</l>
+<l>vocem animamque rapit traiecto gutture; at ille</l>
+<l>fronte ferit terram et crassum vomit ore cruorem.</l>
+<l n="350">Tres quoque Threicios Boreae de gente suprema</l>
+<l>et tris, quos Idas pater et patria Ismara mittit,</l>
+<l>per varios sternit casus. Accurrit Halaesus</l>
+<l>Auruncaeque manus, subit et Neptunia proles,</l>
+<l>insignis Messapus equis. Expellere tendunt</l>
+<l n="355">nunc hi, nunc illi; certatur limine in ipso</l>
+<l>Ausoniae. Magno discordes aethere venti</l>
+<l>proelia ceu tollunt animis et viribus aequis;</l>
+<l>non ipsi inter se, non nubila, non mare cedit;</l>
+<l>anceps pugna diu, stant obnixa omnia contra:</l>
+<l n="360">haud aliter Troianae acies aciesque Latinae</l>
+<l>concurrunt; haeret pede pes densusque viro vir.</l>
+<milestone ed="p" n="362" unit="card"/>
+<l>At parte ex alia, qua saxa rotantia late</l>
+<l>impulerat torrens arbustaque diruta ripis,</l>
+<l>Arcadas insuetos acies inferre pedestris</l>
+<l n="365">ut vidit Pallas Latio dare terga sequaci</l>
+<l>(aspera quis natura loci dimittere quando</l>
+<l>suasit equos), unum quod rebus restat egenis,</l>
+<l>nunc prece, nunc dictis virtutem accendit amaris:</l>
+<l>“Quo fugitis, socii? Per vos et fortia facta,</l>
+<l n="370">per ducis Evandri nomen devictaque bella</l>
+<l>Opemque meam, patriae quae nunc subit aemula laudi,</l>
+<l>fidite ne pedibus. Ferro rumpenda per hostis</l>
+<l>est via. Qua globus ille virum densissimus urget,</l>
+<l>hac vos et Pallanta ducem patria alta reposcit.</l>
+<l n="375">Numina nulla premunt, mortali urgemur ab hoste</l>
+<l>mortales, totidem nobis animaeque manusque.</l>
+<l>Ecce, maris magna claudit nos obice pontus,</l>
+<l>deest iam terra fugae: pelagus Troiamne petemus?”</l>
+<l>Haec ait et medius densos prorumpit in hostis.</l>
+<milestone ed="p" n="380" unit="card"/>
+<l n="380">Obvius huic primum, fatis adductus iniquis,</l>
+<l>fit Lagus. Hunc, magno vellit dum pondere saxum,</l>
+<l>intorto figit telo, discrimina costis</l>
+<l>per medium qua spina dabat, hastamque receptat</l>
+<l>ossibus haerentem. Quem non super occupat Hisbo,</l>
+<l n="385">ille quidem hoc sperans: nam Pallas ante ruentem,</l>
+<l>dum furit, incautum crudeli morte sodalis</l>
+<l>excipit atque ensem tumido in pulmone recondit.</l>
+<l>Hinc Sthenium petit et Rhoeti de gente vetusta</l>
+<l>Anchemolum, thalamos ausum incestare novercae.</l>
+<l n="390">Vos etiam, gemini, Rutulis cecidistis in agris,</l>
+<l>Daucia, Laride Thymberque, simillima proles,</l>
+<l>indiscreta suis gratusque parentibus error;</l>
+<l>at nunc dura dedit vobis discrimina Pallas:</l>
+<l>nam tibi, Thymbre, caput Evandrius abstulit ensis;</l>
+<l n="395">te decisa suum, Laride, dextera quaerit</l>
+<l>semianimesque micant digiti ferrumque retractant.</l>
+<l>Arcadas accensos monitu et praeclara tuentis</l>
+<l>facta viri mixtus dolor et pudor armat in hostis.</l>
+<milestone ed="p" n="399" unit="card"/>
+<l>Tum Pallas biiugis fugientem Rhoetea praeter</l>
+<l n="400">traicit. Hoc spatium tantumque morae fuit Ilo;</l>
+<l>Ilo namque procul validam direxerat hastam,</l>
+<l>quam medius Rhoeteus intercipit, optime Teuthra,</l>
+<l>te fugiens fratremque Tyren, curruque volutus</l>
+<l>caedit semianimis Rutulorum calcibus arva.</l>
+<l n="405">Ac velut optato ventis aestate coortis</l>
+<l>dispersa immittit silvis incendia pastor,</l>
+<l>correptis subito mediis extenditur una</l>
+<l>horrida per latos acies Volcania campos;</l>
+<l>ille sedens victor flammas despectat ovantis:</l>
+<l n="410">non aliter socium virtus coit omnis in unum</l>
+<l>teque iuvat, Palla. Sed bellis acer Halaesus</l>
+<l>tendit in adversos seque in sua conligit arma.</l>
+<l>Hic mactat Ladona Pheretaque Demodocumque,</l>
+<l>Strymonio dextram fulgenti deripit ense</l>
+<l n="415">elatam in iugulum, saxo ferit ora Thoantis</l>
+<l>ossaque dispersit cerebro permixta cruento.</l>
+<l>Fata canens silvis genitor celarat Halaesum:</l>
+<l>ut senior leto canentia lumina solvit,</l>
+<l>iniecere manum Parcae telisque sacrarunt</l>
+<l n="420">Evandri. Quem sic Pallas petit ante precatus:</l>
+<l>“Da nunc, Thybri pater, ferro, quod missile libro,</l>
+<l>fortunam atque viam duri per pectus Halaesi.</l>
+<l>Haec arma exuviasque viri tua quercus habebit.”</l>
+<l>Audiit illa deus: dum texit Imaona Halaesus,</l>
+<l n="425">Arcadio infelix telo dat pectus inermum.</l>
+<milestone ed="p" n="426" unit="card"/>
+<l>At non caede viri tanta perterrita Lausus,</l>
+<l>pars ingens belli, sinit agmina: primus Abantem</l>
+<l>oppositum interimit, pugnae nodumque moramque.</l>
+<l>Sternitur Arcadiae proles, sternuntur Etrusci</l>
+<l n="430">et vos, O Grais imperdita corpora, Teucri.</l>
+<l>Agmina concurrunt ducibusque et viribus aequis.</l>
+<l>Extremi addensent acies nec turba moveri</l>
+<l>tela manusque sinit. Hinc Pallas instat et urget,</l>
+<l>hinc contra Lausus, nec multum discrepat aetas:</l>
+<l n="435">egregii forma, sed quis Fortuna negarat</l>
+<l>in patriam reditus. Ipsos concurrere passus</l>
+<l>haud tamen inter se magni regnator Olympi:</l>
+<l>mox illos sua fata manent maiore sub hoste.</l>
+<milestone ed="p" n="439" unit="card"/>
+<l>Interea soror alma monet succedere Lauso</l>
+<l n="440">Turnum, qui volucri curru medium secat agmen.</l>
+<l>Ut vidit socios: “Tempus desistere pugnae;</l>
+<l>solus ego in Pallanta feror, soli mihi Pallas</l>
+<l>debetur; cuperem ipse parens spectator adesset.”</l>
+<l>Haec ait, et socii cesserunt aequore iusso.</l>
+<l n="445">At Rutulum abscessu iuvenis tum iussa superba</l>
+<l>miratus stupet in Turno corpusque per ingens</l>
+<l>lumina volvit obitque truci procul omnia visu</l>
+<l>talibus et dictis it contra dicta tyranni:</l>
+<l>“Aut spoliis ego iam raptis laudabor opimis</l>
+<l n="450">aut leto insigni: sorti pater aequus utrique est.</l>
+<l>Tolle minas.” Fatus medium procedit in aequor.</l>
+<l>Frigidus Arcadibus coit in praecordia sanguis.</l>
+<l>Desiluit Turnus biiugis, pedes apparat ire</l>
+<l>comminus; utque leo, specula cum vidit ab alta</l>
+<l n="455">stare procul campis meditantem in proelia taurum,</l>
+<l>advolat: haud alia est Turni venientis imago.</l>
+<l>Hunc ubi contiguum missae fore credidit hastae,</l>
+<l>ire prior Pallas, siqua fors adiuvet ausum</l>
+<l>viribus imparibus, magnumque ita ad aethera fatur:</l>
+<l n="460">“Per patris hospitium et mensas, quas advena adisti,</l>
+<l>te precor, Alcide, coeptis ingentibus adsis.</l>
+<l>Cernat semineci sibi me rapere arma cruenta</l>
+<l>victoremque ferant morientia lumina Turni.”</l>
+<l>Audiit Alcides iuvenem magnumque sub imo</l>
+<l n="465">corde premit gemitum lacrimasque effundit inanis.</l>
+<l>Tum Genitor natum dictis adfatur amicis:</l>
+<l>“Stat sua cuique dies, breve et inreparabile tempus</l>
+<l>omnibus est vitae: sed famam extendere factis,</l>
+<l>hoc virtutis opus. Troiae sub moenibus altis</l>
+<l n="470">tot nati cecidere deum; quin occidit una</l>
+<l>Sarpedon, mea progenies. Etiam sua Turnum</l>
+<l>fata vocant, metasque dati pervenit ad aevi.”</l>
+<l>Sic ait atque oculos Rutulorum reicit arvis.</l>
+<l>At Pallas magnis emittit viribus hastam</l>
+<l n="475">vaginaque cava fulgentem deripit ensem.</l>
+<l>Illa volans umeri surgunt qua tegmina summa</l>
+<l>incidit atque viam clipei molita per oras</l>
+<l>tandem etiam magno strinxit de corpore Turni.</l>
+<l>Hic Turnus ferro praefixum robur acuto</l>
+<l n="480">in Pallanta diu librans iacit atque ita fatur:</l>
+<l>“Adspice, num mage sit nostrum penetrabile telum.”</l>
+<l>Dixerat; at clipeum, tot ferri terga, tot aeris,</l>
+<l>quem pellis totiens obeat circumdata tauri,</l>
+<l>vibranti cuspis medium transverberat ictu</l>
+<l n="485">loricaeque moras et pectus perforat ingens.</l>
+<l>Ille rapit calidum frustra de volnere telum:</l>
+<l>una eademque via sanguis animusque sequuntur.</l>
+<l>Corruit in volnus, sonitum super arma dedere</l>
+<l>et terram hostilem moriens petit ore cruento.</l>
+<l n="490">Quem Turnus super adsistens,</l>
+<l>“Arcades, haec,” inquit, “memores mea dicta referte</l>
+<l>Euandro; qualem meruit, Pallanta remitto.</l>
+<l>Quisquis honos tumuli, quidquid solamen humandi est,</l>
+<l>largior. Haud illi stabunt Aeneia parvo</l>
+<l n="495">hospitia.” Et laevo pressit pede talia fatus</l>
+<l>exanimem, rapiens immania pondera baltei</l>
+<l>impressumque nefas, una sub nocte iugali</l>
+<l>caesa manus iuvenum foede thalamique cruenti,</l>
+<l>quae Clonus Eurytides multo caelaverat auro;</l>
+<l n="500">quo nunc Turnus ovat spolio gaudetque potitus.</l>
+<l>Nescia mens hominum fati sortisque futurae</l>
+<l>et servare modum, rebus sublata secundis!</l>
+<l>Turno tempus erit, magno cum optaverit emptum</l>
+<l>intactum Pallanta et cum spolia ista diemque</l>
+<l n="505">oderit. At socii multo gemitu lacrimisque</l>
+<l>impositum scuto referunt Pallanta frequentes.</l>
+<l>O dolor atque decus magnum rediture parenti</l>
+<l>haec te prima dies bello dedit, haec eadem aufert,</l>
+<l>cum tamen ingentis Rutulorum linquis acervos.</l>
+<milestone ed="p" n="510" unit="card"/>
+<l n="510">Nec iam fama mali tanti, sed certior auctor</l>
+<l>advolat Aeneae, tenui discrimine leti</l>
+<l>esse suos, versis tempus succurrere Teucris.</l>
+<l>Proxima quaeque metit gladio latumque per agmen</l>
+<l>ardens limitem agit ferro, te, Turne, superbum</l>
+<l n="515">caede nova quaerens. Pallas, Euander, in ipsis</l>
+<l>omnia sunt oculis, mensae, quas advena primas</l>
+<l>tunc adiit, dextraeque datae. Sulmone creatos</l>
+<l>quattuor hic iuvenes, totidem, quos educat Ufens,</l>
+<l>viventis rapit, inferias quos immolet umbris</l>
+<l n="520">captivoque rogi perfundat sanguine flammas.</l>
+<l>Inde Mago procul infensam contenderat hastam.</l>
+<l>Ille astu subit ac tremibunda supervolat hasta,</l>
+<l>et genua amplectens effatur talia supplex:</l>
+<l>“Per patrios manis et spes surgentis Iuli</l>
+<l n="525">te precor, hanc animam serves natoque patrique.</l>
+<l>Est domus alta, iacent penitus defossa talenta</l>
+<l>caelati argenti, sunt auri pondera facti</l>
+<l>infectique mihi. Non hic victoria Teucrum</l>
+<l>vertitur aut anima una dabit discrimina tanta.”</l>
+<l n="530">Dixerat. Aeneas contra cui talia reddit:</l>
+<l>“Argenti atque auri memoras quae multa talenta,</l>
+<l>natis parce tuis. Belli commercia Turnus</l>
+<l>sustulit ista prior iam tum Pallante perempto.</l>
+<l>Hoc patris Anchisae manes, hoc sentit Iulus.”</l>
+<l n="535">Sic fatus galeam laeva tenet atque reflexa</l>
+<l>cervice orantis capulo tenus applicat ensem.</l>
+<l>Nec procul Haemonides, Phoebi Triviaeque sacerdos,</l>
+<l>infula cui sacra redimibat tempora vitta,</l>
+<l>totus conlucens veste atque insignibus armis.</l>
+<l n="540">Quem congressus agit campo lapsumque superstans</l>
+<l>immolat ingentique umbra tegit; arma Serestus</l>
+<l>lecta refert umeris, tibi, rex Gradive, tropaeum.</l>
+<milestone ed="p" n="543" unit="card"/>
+<l>Instaurant acies Volcani stirpe creatus</l>
+<l>Caeculus et veniens Marsorum montibus Umbro:</l>
+<l n="545">Dardanides contra furit. Anxuris ense sinistram</l>
+<l>et totum clipei ferro deiecerat orbem;</l>
+<l>dixerat ille aliquid magnum vimque adfore verbo</l>
+<l>crediderat caeloque animum fortasse ferebat</l>
+<l>canitiemque sibi et longos promiserat annos:</l>
+<l n="550">Tarquitus exultans contra fulgentibus armis,</l>
+<l>silvicolae Fauno Dryope quem nympha crearat,</l>
+<l>obvius ardenti sese obtulit. Ille reducta</l>
+<l>loricam clipeique ingens onus impedit hasta;</l>
+<l>tum caput orantis nequiquam et multa parantis</l>
+<l n="555">dicere deturbat terrae truncumque tepentem</l>
+<l>provolvens super haec inimico pectore fatur:</l>
+<l>“Istic nunc, metuende, iace. Non te optima mater</l>
+<l>condet humi patrioque onerabit membra sepulchro:</l>
+<l>alitibus linquere feris aut gurgite mersum</l>
+<l n="560">unda feret piscesque impasti volnera lambent.”</l>
+<l>Protinus Antaeum et Lucam, prima agmina Turni,</l>
+<l>persequitur fortemque Numam fulvumque Camertem,</l>
+<l>magnanimo Volcente satum, ditissimus agri</l>
+<l>qui fuit Ausonidum et tacitis regnavit Amyclis.</l>
+<l n="565">Aegaeon qualis, centum cui bracchia dicunt</l>
+<l>centenasque manus, quinquaginta oribus ignem</l>
+<l>pectoribusque arsisse, Iovis cum fulmina contra</l>
+<l>tot paribus streperet clipeis, tot stringeret enses:</l>
+<l>sic toto Aeneas desaevit in aequore victor,</l>
+<l n="570">ut semel intepuit mucro. Quin ecce Niphaei</l>
+<l>quadriiugis in equos adversaque pectora tendit.</l>
+<l>Atque illi longe gradientem et dira frementem</l>
+<l>ut videre, metu versi retroque ruentes</l>
+<l>effunduntque ducem rapiuntque ad litora currus.</l>
+<milestone ed="p" n="575" unit="card"/>
+<l n="575">Interea biiugis infert se Lucagus albis</l>
+<l>in medios fraterque Liger; sed frater habenis</l>
+<l>flectit equos, strictum rotat acer Lucagus ensem.</l>
+<l>Haud tulit Aeneas tanto fervore furentis:</l>
+<l>inruit adversaque ingens apparuit hasta.</l>
+<l n="580">Cui Liger:</l>
+<l>“Non Diomedis equos nec currum cernis Achillis</l>
+<l>aut Phrygiae campos: nunc belli finis et aevi</l>
+<l>his dabitur terris.” Vesano talia late</l>
+<l>dicta volant Ligeri. Sed non et Troïus heros</l>
+<l n="585">dicta parat contra: iaculum nam torquet in hostem.</l>
+<l>Lucagus ut pronus pendens in verbera telo</l>
+<l>admonuit biiugos, proiecto dum pede laevo</l>
+<l>aptet se pugnae, subit oras hasta per imas</l>
+<l>fulgentis clipei, tum laevum perforat inguen:</l>
+<l n="590">excussus curru moribundus volvitur arvis.</l>
+<l>Quem pius Aeneas dictis adfatur amaris:</l>
+<l>“Lucage, nulla tuos currus fuga segnis equorum</l>
+<l>prodidit aut vanae vertere ex hostibus umbrae:</l>
+<l>ipse rotis saliens iuga deseris.” Haec ita fatus</l>
+<l n="595">arripuit biiugos; frater tendebat inertis</l>
+<l>infelix palmas, curru delapsus eodem:</l>
+<l>“Per te, per qui te talem genuere parentes,</l>
+<l>vir Troiane, sine hanc animam et miserere precantis.”</l>
+<l>Pluribus oranti Aeneas: “Haud talia dudum</l>
+<l n="600">dicta dabas. Morere et fratrem ne desere frater.”</l>
+<l>Tum latebras animae pectus mucrone recludit.</l>
+<l>Talia per campos edebat funera ductor</l>
+<l>Dardanius, torrentis aquae vel turbinis atri</l>
+<l>more furens. Tandem erumpunt et castra relinquunt</l>
+<l n="605">Ascanius puer et nequiquam obsessa iuventus.</l>
+<milestone ed="p" n="606" unit="card"/>
+<l>Iunonem interea compellat Iuppiter ultro:</l>
+<l>“O germana mihi atque eadem gratissima coniunx,</l>
+<l>ut rebare, Venus, nec te sententia fallit,</l>
+<l>Troianas sustentat opes, non vivida bello</l>
+<l n="610">dextra viris animusque ferox patiensque pericli.”</l>
+<l>Cui Iuno summissa “Quid, o pulcherrime coniunx,</l>
+<l>sollicitas aegram et tua tristia dicta timentem?</l>
+<l>Si mihi, quae quondam fuerat quamque esse decebat,</l>
+<l>vis in amore foret, non hoc mihi namque negares,</l>
+<l n="615">omnipotens, quin et pugnae subducere Turnum</l>
+<l>et Dauno possem incolumem servare parenti.</l>
+<l>Nunc pereat Teucrisque pio det sanguine poenas.</l>
+<l>Ille tamen nostra deducit origine nomen</l>
+<l>Pilumnusque illi quartus pater et tua larga</l>
+<l n="620">saepe manu multisque oneravit limina donis.”</l>
+<l>Cui rex aetherii breviter sic fatur Olympi:</l>
+<l>“Si mora praesentis leti tempusque caduco</l>
+<l>oratur iuveni meque hoc ita ponere sentis,</l>
+<l>tolle fuga Turnum atque instantibus eripe fatis</l>
+<l n="625">hactenus indulsisse vacat. Sin altior istis</l>
+<l>sub precibus venia ulla latet totumque moveri</l>
+<l>mutarive putas bellum, spes pascis inanis.”</l>
+<l>Et Iuno adlacrimans: “Quid si, quae voce gravaris,</l>
+<l>mente dares atque haec Turno rata vita maneret?</l>
+<l n="630">Nunc manet insontem gravis exitus, aut ego veri</l>
+<l>vana feror. Quod ut O potius formidine falsa</l>
+<l>ludar et in melius tua, qui potes, orsa reflectas!”</l>
+<milestone ed="p" n="633" unit="card"/>
+<l>Haec ubi dicta dedit, caelo se protinus alto</l>
+<l>misit, agens hiemem nimbo succincta per auras,</l>
+<l n="635">Iliacamque aciem et Laurentia castra petivit.</l>
+<l>Tum dea nube cava tenuem sine viribus umbram</l>
+<l>in faciem Aeneae, visu mirabile monstrum,</l>
+<l>Dardaniis ornat telis clipeumque iubasque</l>
+<l>divini adsimulat capitis, dat inania verba,</l>
+<l n="640">dat sine mente sonum gressusque effingit euntis,</l>
+<l>morte obita qualis fama est volitare figuras</l>
+<l>aut quae sopitos deludunt somnia sensus.</l>
+<l>At primas laeta ante acies exsultat imago</l>
+<l>inritatque virum telis et voce lacessit.</l>
+<l n="645">Instat cui Turnus stridentemque eminus hastam</l>
+<l>conicit: illa dato vertit vestigia tergo.</l>
+<l>Tum vero Aenean aversum ut cedere Turnus</l>
+<l>credidit atque animo spem turbidus hausit inanem,</l>
+<l>“Quo fugis, Aenea? Thalamos ne desere pactos;</l>
+<l n="650">hac dabitur dextra tellus quaesita per undas.”</l>
+<l>Talia vociferans sequitur strictumque coruscat</l>
+<l>mucronem nec ferre videt sua gaudia ventos.</l>
+<milestone ed="p" n="653" unit="card"/>
+<l>Forte ratis celsi coniuncta crepidine saxi</l>
+<l>expositis stabat scalis et ponte parato,</l>
+<l n="655">qua rex Clusinis advectus Osinius oris.</l>
+<l>Huc sese trepida Aeneae fugientis imago</l>
+<l>conicit in latebras; nec Turnus segnior instat</l>
+<l>exsuperatque moras et pontis transilit altos.</l>
+<l>Vix proram attigerat: rumpit Saturnia funem</l>
+<l n="660">avolsamque rapit revoluta per aequora navem.</l>
+<l>Illum autem Aeneas absentem in praelia poscit;</l>
+<l>obvia multa virum demittit corpora morti:</l>
+<l>tum levis haud ultra latebras iam quaerit imago,</l>
+<l>sed sublime volans nubi se immiscuit atrae.</l>
+<l n="665">Cum Turnum medio interea fert aequore turbo.</l>
+<l>Respicit ignarus rerum ingratusque salutis</l>
+<l>et duplicis cum voce manus ad sidera tendit:</l>
+<l>“Omnipotens genitor, tanton me crimine dignum</l>
+<l>duxisti et talis voluisti expendere poenas?</l>
+<l n="670">Quo feror? Unde abii? Quae me fuga quemve reducit?</l>
+<l>Laurentisne iterum muros aut castra videbo?</l>
+<l>Quid manus illa virum, qui me meaque arma secuti?</l>
+<l>Quosne (nefas) omnis infanda in morte reliqui</l>
+<l>et nunc palantis video gemitumque cadentum</l>
+<l n="675">accipio! Quid ago? Aut quae iam satis ima dehiscat</l>
+<l>terra mihi? Vos O potius miserescite venti:</l>
+<l>in rupes, in saxa, volens vos Turnus adoro</l>
+<l>ferte ratem saevisque vadis immittite Syrtis,</l>
+<l>quo neque me Rutuli nec conscia fama sequatur.”</l>
+<l n="680">Haec memorans animo nunc huc, nunc fluctuat illuc,</l>
+<l>an sese mucrone ob tantum dedecus amens</l>
+<l>induat et crudum per costas exigat ensem,</l>
+<l>fluctibus an iaciat mediis et litora nando</l>
+<l>curva petat Teucrumque iterum se reddat in arma.</l>
+<l n="685">Ter conatus utramque viam, ter maxima Iuno</l>
+<l>continuit iuvenemque animi miserata repressit.</l>
+<l>Labitur alta secans fluctuque aestuque secundo</l>
+<l>et patris antiquam Dauni defertur ad urbem.</l>
+<milestone ed="p" n="689" unit="card"/>
+<l>At Iovis interea monitis Mezentius ardens</l>
+<l n="690">succedit pugnae Teucrosque invadit ovantis.</l>
+<l>Concurrunt Tyrrhenae acies atque omnibus uni,</l>
+<l>uni odiisque viro telisque frequentibus instant.</l>
+<l>Ille velut rupes, vastum quae prodit in aequor,</l>
+<l>obvia ventorum furiis expostaque ponto,</l>
+<l n="695">vim cunctam atque minas perfert caelique marisque,</l>
+<l>ipsa immota manens, prolem Dolichaonis Hebrum</l>
+<l>sternit humi, cum quo Latagum Palmumque fugacem,</l>
+<l>sed Latagum saxo atque ingenti fragmine montis</l>
+<l>occupat os faciemque adversam, poplite Palmum</l>
+<l n="700">succiso volvi segnem sinit, armaque Lauso</l>
+<l>donat habere umeris et vertice figere cristas.</l>
+<l>Nec non Euanthen Phrygium Paridisque Mimanta</l>
+<l>aequalem comitemque, una quem nocte Theano</l>
+<l>in lucem genitori Amyco dedit et face praegnans</l>
+<l n="705">Cisseis regina Parin creat: urbe paterna</l>
+<l>occubat, ignarum Laurens habet ora Mimanta.</l>
+<l>Ac velut ille canum morsu de montibus altis</l>
+<l>actus aper, multos Vesulus quem pinifer annos</l>
+<l>defendit multosve palus Laurentia, silva</l>
+<l n="710">pastus harundinea, postquam inter retia ventum est,</l>
+<l>substitit infremuitque ferox et inhorruit armos,</l>
+<l>nec cuiquam irasci propiusque accedere virtus,</l>
+<l>sed iaculis tutisque procul clamoribus instant;</l>
+<l>haud aliter, iustae quibus est Mezentius irae,</l>
+<l n="715">non ulli est animus stricto concurrere ferro;</l>
+<l>missilibus longe et vasto clamore lacessunt:</l>
+<l>ille autem impavidus partis cunctatur in omnis,</l>
+<l>dentibus infrendens, et tergo decutit hastas.</l>
+<milestone ed="p" n="719" unit="card"/>
+<l>Venerat antiquis Corythi de finibus Acron,</l>
+<l n="720">Graius homo, infectos linquens profugus hymenaeos.</l>
+<l>Hunc ubi miscentem longe media agmina vidit,</l>
+<l>purpureum pennis et pactae coniugis ostro:</l>
+<l>impastus stabula alta leo ceu saepe peragrans,</l>
+<l>suadet enim vesana fames, si forte fugacem</l>
+<l n="725">conspexit capream aut surgentem in cornua cervum,</l>
+<l>gaudet, hians immane, comasque arrexit et haeret</l>
+<l>visceribus super accumbens, lavit inproba taeter</l>
+<l>ora cruor,</l>
+<l>sic ruit in densos alacer Mezentius hostis.</l>
+<l n="730">Sternitur infelix Acron et calcibus atram</l>
+<l>tundit humum expirans infractaque tela cruentat.</l>
+<l>Atque idem fugientem haud est dignatus Oroden</l>
+<l>sternere nec iacta caecum dare cuspide volnus:</l>
+<l>obvius adversoque occurrit seque viro vir</l>
+<l n="735">contulit, haud furto melior, sed fortibus armis.</l>
+<l>Tum super abiectum posito pede nixus et hasta:</l>
+<l>“Pars belli haud temnenda, viri, iacet altus Orodes.”</l>
+<l>Conclamant socii laetum paeana secuti.</l>
+<l>Ille autem exspirans: “Non me, quicumque es, inulto,</l>
+<l n="740">victor, nec longum laetabere: te quoque fata</l>
+<l>prospectant paria atque eadem mox arva tenebis.”</l>
+<l>Ad quae subridens mixta Mezentius ira:</l>
+<l>“Nunc morere. Ast de me divom pater atque hominum rex</l>
+<l>viderit.” Hoc dicens eduxit corpore telum:</l>
+<l n="745">olli dura quies oculos et ferreus urget</l>
+<l>somnus, in aeternam clauduntur lumina noctem.</l>
+<milestone ed="p" n="747" unit="card"/>
+<l>Caedicus Alcathoum obtruncat, Sacrator Hydaspen</l>
+<l>Partheniumque Rapo et praedurum viribus Orsen,</l>
+<l>Messapus Croniumque Lycaoniumque Erichaeten,</l>
+<l n="750">illum infrenis equi lapsu tellure iacentem,</l>
+<l>hunc peditem. Pedes et Lycius processerat Agis,</l>
+<l>quem tamen haud expers Valerus virtutis avitae</l>
+<l>deicit; at Thronium Salius Saliumque Nealces</l>
+<l>insidiis, iaculo et longe fallente sagitta.</l>
+<milestone ed="p" n="755" unit="card"/>
+<l n="755">Iam gravis aequabat luctus et mutua Mavors</l>
+<l>funera: caedebant pariter pariterque ruebant</l>
+<l>victores victique, neque his fuga nota neque illis.</l>
+<l>Di Iovis in tectis iram miserantur inanem</l>
+<l>amborum et tantos mortalibus esse labores:</l>
+<l n="760">hinc Venus, hinc contra spectat Saturnia Iuno,</l>
+<l>pallida Tisiphone media inter milia saevit.</l>
+<l>At vero ingentem quatiens Mezentius hastam</l>
+<l>turbidus ingreditur campo. Quam magnus Orion,</l>
+<l>cum pedes incedit medii per maxima Nerei</l>
+<l n="765">stagna viam scindens, umero supereminet undas</l>
+<l>aut summis referens annosam montibus ornum</l>
+<l>ingrediturque solo et caput inter nubila condit:</l>
+<l>talis se vastis infert Mezentius armis.</l>
+<milestone ed="p" n="769" unit="card"/>
+<l>Huic contra Aeneas, speculatus in agmine longo,</l>
+<l n="770">obvius ire parat. Manet imperterritus ille,</l>
+<l>hostem magnanimum opperiens, et mole sua stat;</l>
+<l>atque oculis spatium emensus, quantum satis hastae:</l>
+<l>“Dextra mihi deus et telum, quod missile libro,</l>
+<l>nunc adsint! Voveo praedonis corpore raptis</l>
+<l n="775">indutum spoliis ipsum te, Lause, tropaeum</l>
+<l>Aeneae.” Dixit stridentemque eminus hastam</l>
+<l>iecit; at illa volans clipeo est excussa proculque</l>
+<l>egregium Antoren latus inter et ilia figit,</l>
+<l>Herculis Antoren comitem, qui missus ab Argis</l>
+<l n="780">haeserat Euandro atque Itala consederat urbe.</l>
+<l>Sternitur infelix alieno volnere caelumque</l>
+<l>aspicit et dulcis moriens reminiscitur Argos</l>
+<l>tum pius Aeneas hastam iacit: illa per orbem</l>
+<l>aere cavum triplici, per linea terga tribusque</l>
+<l n="785">transit intextum tauris opus imaque sedit</l>
+<l>inguine, sed viris haud pertulit. Ocius ensem</l>
+<l>Aeneas, viso Tyrrheni sanguine laetus,</l>
+<l>eripit a femine et trepidanti fervidus instat.</l>
+<l>Ingemuit cari graviter genitoris amore,</l>
+<l n="790">ut vidit, Lausus, lacrimaeque per ora volutae.</l>
+<milestone ed="p" n="791" unit="card"/>
+<l>Hic mortis durae casum tuaque optima facta,</l>
+<l>siqua fidem tanto est operi latura vetustas,</l>
+<l>non equidem nec te, iuvenis memorande, silebo.</l>
+<l>Ille pedem referens et inutilis inque ligatus</l>
+<l n="795">cedebat clipeoque inimicum hastile trahebat:</l>
+<l>prorupit iuvenis seseque immiscuit armis</l>
+<l>iamque adsurgentis dextra plagamque ferentis</l>
+<l>Aeneae subiit mucronem ipsumque morando</l>
+<l>sustinuit.  Socii magno clamore sequuntur,</l>
+<l n="800">dum genitor nati parma protectus abiret,</l>
+<l>telaque coniciunt proturbantque eminus hostem</l>
+<l>missilibus. Furit Aeneas tectusque tenet se.</l>
+<l>Ac velut effusa siquando grandine nimbi</l>
+<l>praecipitant, omnis campis diffugit arator</l>
+<l n="805">omnis et agricola et tuta latet arce viator,</l>
+<l>aut amnis ripis aut alti fornice saxi,</l>
+<l>dum pluit in terris, ut possint sole reducto</l>
+<l>exercere diem: sic obrutus undique telis</l>
+<l>Aeneas nubem belli, dum detonet omnis,</l>
+<l n="810">sustinet et Lausum increpitat Lausoque minatur:</l>
+<l>“Quo moriture ruis maioraque viribus audes?</l>
+<l>Fallit te incautum pietas tua.” Nec minus ille</l>
+<l>exsultat demens; saevae iamque altius irae</l>
+<l>Dardanio surgunt ductori, extremaque Lauso</l>
+<l n="815">Parcae fila legunt: validum namque exigit ensem</l>
+<l>per medium Aeneas iuvenem totumque recondit.</l>
+<l>Transiit et parmam mucro, levia arma minacis,</l>
+<l>et tunicam, molli mater quam neverat auro,</l>
+<l>implevitque sinum sanguis; tum vita per auras</l>
+<l n="820">concessit maesta ad manis corpusque reliquit.</l>
+<l>At vero ut voltum vidit morientis et ora,</l>
+<l>ora modis Anchisiades pallentia miris,</l>
+<l>ingemuit miserans graviter dextramque tetendit,</l>
+<l>et mentem patriae subiit pietatis imago.</l>
+<l n="825">“Quid tibi nunc, miserande puer, pro laudibus istis,</l>
+<l>quid pius Aeneas tanta dabit indole dignum?</l>
+<l>Arma, quibus laetatus, habe tua, teque parentum</l>
+<l>manibus et cineri, siqua est ea cura, remitto.</l>
+<l>Hoc tamen infelix miseram solabere mortem:</l>
+<l n="830">Aeneae magni dextra cadis.” Increpat ultro</l>
+<l>cunctantis socios et terra sublevat ipsum,</l>
+<l>sanguine turpantem comptos de more capillos.</l>
+<milestone ed="p" n="833" unit="card"/>
+<l>Interea genitor Tiberini ad fluminis undam</l>
+<l>volnera siccabat lymphis corpusque levabat</l>
+<l n="835">arboris adclinis trunco. Procul aerea ramis</l>
+<l>dependet galea et prato gravia arma quiescunt.</l>
+<l>Stant lecti circum iuvenes: ipse aeger anhelans</l>
+<l>colla fovet, fusus propexam in pectore barbam;</l>
+<l>multa super Lauso rogitat multumque remittit</l>
+<l n="840">qui revocent maestique ferant mandata parentis.</l>
+<l>At Lausum socii exanimem super arma ferebant</l>
+<l>flentes, ingentem atque ingenti volnere victum.</l>
+<l>Agnovit longe gemitum praesaga mali mens:</l>
+<l>canitiem multo deformat pulvere et ambas</l>
+<l n="845">ad caelum tendit palmas et corpore inhaeret.</l>
+<l>“Tantane me tenuit vivendi, nate, voluptas,</l>
+<l>ut pro me hostili paterer succedere dextrae,</l>
+<l>quem genui? Tuane haec genitor per volnera servor,</l>
+<l>morte tua vivens? Heu, nunc misero mihi demum</l>
+<l n="850">exitium infelix, nunc alte volnus adactum!</l>
+<l>Idem ego, nate, tuum maculavi crimine nomen,</l>
+<l>pulsus ob invidiam solio sceptrisque paternis.</l>
+<l>Debueram patriae poenas odiisque meorum:</l>
+<l>omnis per mortis animam sontem ipse dedissem!</l>
+<l n="855">Nunc vivo neque adhuc homines lucemque relinquo.</l>
+<l>Sed linquam.” Simul hoc dicens attollit in aegrum</l>
+<l>se femur et, quamvis dolor alto volnere tardet,</l>
+<l>haud deiectus equum duci iubet. Hoc decus illi,</l>
+<l>hoc solamen erat; bellis hoc victor abibat</l>
+<l n="860">omnibus. Adloquitur maerentem et talibus infit:</l>
+<l>“Rhaebe, diu, res siqua diu mortalibus ulla est,</l>
+<l>viximus. Aut hodie victor spolia illa cruenti</l>
+<l>et caput Aeneae referes Lausique dolorum</l>
+<l>ultor eris mecum aut, aperit si nulla viam vis,</l>
+<l n="865">occumbes pariter; neque enim, fortissime, credo,</l>
+<l>iussa aliena pati et dominos dignabere Teucros.”</l>
+<l>Dixit et exceptus tergo consueta locavit</l>
+<l>membra manusque ambas iaculis oneravit acutis,</l>
+<l>aere caput fulgens cristaque hirsutus equina.</l>
+<l n="870">Sic cursum in medios rapidus dedit: aestuat ingens</l>
+<l>uno in corde pudor mixtoque insania luctu,</l>
+<l><del status="unremarkable">et furiis agitatus amor et conscia virtus.</del></l>
+<milestone ed="p" n="873" unit="card"/>
+<l>Atque hic Aenean magna ter voce vocavit.</l>
+<l>Aeneas agnovit enim laetusque precatur:</l>
+<l n="875">“Sic pater ille deum faciat, sic altus Apollo,</l>
+<l>incipias conferre manum.”</l>
+<l>Tantum effatus et infesta subit obvius hasta.</l>
+<l>Ille autem: “Quid me erepto, saevissime, nato</l>
+<l>terres? Haec via sola fuit, qua perdere posses.</l>
+<l n="880">Nec mortem horremus nec divom parcimus ulli.</l>
+<l>Desine: nam venio moriturus et haec tibi porto</l>
+<l>dona prius.” Dixit telumque intorsit in hostem;</l>
+<l>inde aliud super atque aliud figitque volatque</l>
+<l>ingenti gyro, sed sustinet aureus umbo.</l>
+<l n="885">Ter circum adstantem laevos equitavit in orbes</l>
+<l>tela manu iaciens, ter secum Troïus heros</l>
+<l>immanem aerato circumfert tegmine silvam.</l>
+<l>Inde ubi tot traxisse moras, tot spicula taedet</l>
+<l>vellere et urgetur pugna congressus iniqua,</l>
+<l n="890">multa movens animo iam tandem erumpit et inter</l>
+<l>bellatoris equi cava tempora conicit hastam.</l>
+<l>Tollit se arrectum quadrupes et calcibus auras</l>
+<l>verberat effusumque equitem super ipse secutus</l>
+<l>implicat eiectoque incumbit cernuus armo.</l>
+<l n="895">Clamore incendunt caelum Troesque Latinique.</l>
+<l>Advolat Aeneas vaginaque eripit ensem</l>
+<l>et super haec: “Ubi nunc Mezentius acer et illa</l>
+<l>effera vis animi? “Contra Tyrrhenus, ut auras</l>
+<l>suspiciens hausit caelum mentemque recepit:</l>
+<l n="900">“Hostis amare, quid increpitas mortemque minaris?</l>
+<l>Nullum in caede nefas, nec sic ad proelia veni,</l>
+<l>nec tecum meus haec pepigit mihi foedera Lausus.</l>
+<l>Unum hoc per siqua est victis venia hostibus oro:</l>
+<l>corpus humo patiare tegi. Scio acerba meorum</l>
+<l n="905">circumstare odia: hunc, oro, defende furorem</l>
+<l>et me consortem nati concede sepulchro.”</l>
+<l>Haec loquitur iuguloque haud inscius accipit ensem</l>
+<l>undantique animam diffundit in arva cruore.</l></div1></body></text></TEI.2>

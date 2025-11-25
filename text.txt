@@ -1,0 +1,8 @@
+Make the following website:
+- Recreation of the Sortes Vergilianae
+- Users can specify the following
+  - Latin and English
+  - Which book(s) to be picked from (or from the whole thing)
+  - How many lines
+- Pick random lines
+- 
