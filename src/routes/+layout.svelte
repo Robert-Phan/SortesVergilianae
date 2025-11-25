@@ -6,6 +6,8 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+	<title>Sortes Vergilianes</title>
+	<meta name="description" content="A digital recreation of the Sortes Vergilianes." />
 </svelte:head>
 
 {@render children()}
