@@ -1,8 +1,9 @@
 <script lang="ts">
     import type { PageProps } from "./$types";
     import type { Verse } from "../../resources/load_verses";
-    import { fade } from 'svelte/transition';
-    import { base } from '$app/paths';
+    import { fade } from "svelte/transition";
+    import { base, resolve } from "$app/paths";
+    import { cubicOut, elasticOut } from "svelte/easing";
 
     let { data }: PageProps = $props();
 
@@ -12,7 +13,7 @@
         1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
     ]);
 
-    let lineCount = $state(5);
+    let lineCount = $state(4);
 
     // State for results
     let selectedVerse = $state<Verse | null>(null);
@@ -233,14 +234,38 @@
         return selectedVerse.corresponding;
     }
 
-    // let correspondingVerses = $derived(getCorrespondingVerses())
-    // $inspect(correspondingVerses)
+    function customTransition(
+        node: Element,
+        { delay = 0, duration = 800, easing = cubicOut } = {},
+    ) {
+        const o = +getComputedStyle(node).opacity;
+        const maxHeight = 2000;
+        const padding = 2;
+        return {
+            delay,
+            duration,
+            easing,
+            css: (t: number) => `
+            opacity: ${t * o};
+            max-height: ${t * maxHeight}px;
+            padding: ${t * padding}rem;
+            `,
+        };
+    }
 </script>
 
 <div class="container">
     <header>
-        <h1><a class="title-link" href={`${base}/explanation`}>Sortes Vergilianae</a></h1>
-        <p class="subtitle"><a class="subtitle-link" href={`${base}/explanation`}>Seek wisdom from Virgil's verses</a></p>
+        <h1>
+            <a class="title-link" href={`${resolve('/explanation')}`}
+                >Sortes Vergilianae</a
+            >
+        </h1>
+        <p class="subtitle">
+            <a class="subtitle-link" href={`${resolve('/explanation')}`}
+                >Seek wisdom from Virgil's verses</a
+            >
+        </p>
     </header>
 
     <section class="controls">
@@ -317,23 +342,32 @@
             </div>
 
             {#if linesAbove.length > 0}
-                {#key linesAbove.length}
-                    <div class="peek-lines peek-above" in:fade={{ duration: 300 }}>
-                        {#each linesAbove as line, idx (idx)}
-                            <div class="verse-line peek-line">{line}</div>
-                        {/each}
-                    </div>
-                {/key}
+                <div class="peek-lines peek-above" in:fade={{ duration: 300 }}>
+                    {#each linesAbove as line, idx (line)}
+                        <div class="verse-line peek-line" in:fade={{ duration: 300 }}>{line}</div>
+                    {/each}
+                </div>
             {/if}
 
-            <div class="verse-display main" class:expanded={showVerse}>
-                <div class="verse-meta">
-                    <strong>{language === "latin" ? "Latin" : "English"}</strong
-                    >
-                    - Book {selectedVerse.book}{#if language === "latin"}, Lines {startLineNumber}-{endLineNumber}{/if}
-                </div>
+            <div
+                class="verse-display main"
+                in:customTransition
+                class:expanded={true}
+            >
                 {#key selectedVerse.id}
-                    <div class="verse-content main-content" in:fade={{ duration: 600 }}>
+                    <div class="verse-meta" in:fade={{ duration: 800 }}>
+                        <strong
+                            >{language === "latin"
+                                ? "Latin"
+                                : "English"}</strong
+                        >
+                        - Book {selectedVerse.book}{#if language === "latin"},
+                            Lines {startLineNumber}-{endLineNumber}{/if}
+                    </div>
+                    <div
+                        class="verse-content main-content"
+                        in:fade={{ duration: 800 }}
+                    >
                         {#each selectedVerse.paragraphs as paragraph, pIdx (pIdx)}
                             {#each paragraph as line, lIdx (`${pIdx}-${lIdx}`)}
                                 <div class="verse-line">
@@ -346,13 +380,14 @@
             </div>
 
             {#if linesBelow.length > 0}
-                {#key linesBelow.length}
-                    <div class="peek-lines peek-below" in:fade={{ duration: 300 }}>
-                        {#each linesBelow as line, idx (idx)}
-                            <div class="verse-line peek-line">{line}</div>
-                        {/each}
-                    </div>
-                {/key}
+                <div
+                    class="peek-lines peek-below"
+                    in:fade={{ duration: 300 }}
+                >
+                    {#each linesBelow as line, idx (line)}
+                        <div class="verse-line peek-line" in:fade={{ duration: 300 }}>{line}</div>
+                    {/each}
+                </div>
             {/if}
 
             <div class="peek-button-container below">
@@ -412,7 +447,10 @@
         background: #f5f5dc;
         min-height: 100vh;
     }
-    :global(button), :global(input), :global(select), :global(textarea) {
+    :global(button),
+    :global(input),
+    :global(select),
+    :global(textarea) {
         font-family: inherit;
     }
 
@@ -445,7 +483,8 @@
         color: #5a4a3a;
     }
 
-    .title-link, .subtitle-link {
+    .title-link,
+    .subtitle-link {
         color: inherit;
         text-decoration: none;
     }
@@ -633,13 +672,13 @@
         max-height: 0;
         overflow: hidden;
         opacity: 0;
-        transition:
+        /* transition:
             max-height 0.8s ease-out,
-            opacity 0.5s ease-out,
-            padding 0.8s ease-out;
+            opacity 0.8s ease-out,
+            padding 0.8s ease-out; */
         background: white;
         border: 2px solid #8b7355;
-        box-shadow: 
+        box-shadow:
             0 3px 10px rgba(0, 0, 0, 0.1),
             inset 0 1px 0 rgba(255, 255, 255, 0.8);
     }
@@ -717,7 +756,9 @@
         border: 1px solid #5a4a3a;
         font-size: 0.95rem;
         cursor: pointer;
-        transition: background 0.2s, box-shadow 0.2s;
+        transition:
+            background 0.2s,
+            box-shadow 0.2s;
         box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
     }
 

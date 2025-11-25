@@ -1,10 +1,10 @@
 <script>
   // No special logic needed; static content
-  import { base } from '$app/paths';
+  import { base, resolve } from '$app/paths';
 </script>
 
 <div class="explanation-container">
-  <a href={`${base}/`} class="close-button" aria-label="Close" title="Close">×</a>
+  <a href={`${resolve('/')}`} class="close-button" aria-label="Close" title="Close">×</a>
 
   <h1>About the Sortes Vergilianae</h1>
   <p class="lede">
