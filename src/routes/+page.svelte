@@ -2,6 +2,7 @@
     import type { PageProps } from "./$types";
     import type { Verse } from "../../resources/load_verses";
     import { fade } from 'svelte/transition';
+    import { base } from '$app/paths';
 
     let { data }: PageProps = $props();
 
@@ -238,8 +239,8 @@
 
 <div class="container">
     <header>
-        <h1><a class="title-link" href="/explanation">Sortes Vergilianae</a></h1>
-        <p class="subtitle"><a class="subtitle-link" href="/explanation">Seek wisdom from Virgil's verses</a></p>
+        <h1><a class="title-link" href={`${base}/explanation`}>Sortes Vergilianae</a></h1>
+        <p class="subtitle"><a class="subtitle-link" href={`${base}/explanation`}>Seek wisdom from Virgil's verses</a></p>
     </header>
 
     <section class="controls">
